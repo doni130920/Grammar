@@ -1,0 +1,10 @@
+{
+  "name": "English Grammar Lab",
+  "short_name": "영어공부앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f4f9",
+  "theme_color": "#2563eb",
+  "lang": "ko"
+}
